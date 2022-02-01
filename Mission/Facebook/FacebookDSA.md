@@ -4,11 +4,11 @@ These questions are intended for those who are preparing for Facebook/Meta.
 
 | S No  | Question  |  Link | Status | Concept |
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
-| 1 |   Leftmost Column with at Least a One | [Link](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) | PENDING | Array
-| 2 |   Product of Array Except Self    | [Link](https://leetcode.com/problems/product-of-array-except-self  ) | PENDING | Array
+| 1 |   Leftmost Column with at Least a One| [Link](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) | PENDING | Array
+| 2 |   ~~Product of Array Except Self~~    | [Link](https://leetcode.com/problems/product-of-array-except-self  ) | DONE | Array
 | 3 |   Friends Of Appropriate Ages | [Link](https://leetcode.com/problems/friends-of-appropriate-ages) | PENDING | Array
-| 4 |   Next Permutation    | [Link](https://leetcode.com/problems/next-permutation  ) | PENDING | Array
-| 5 |   Monotonic Array | [Link](https://leetcode.com/problems/monotonic-array) | PENDING | Array
+| 4 |   ~~Next Permutation~~    | [Link](https://leetcode.com/problems/next-permutation  ) | DONE | Array
+| 5 |   ~~Monotonic Array~~ | [Link](https://leetcode.com/problems/monotonic-array) | DONE | Array
 | 6 |   Toeplitz Matrix | [Link](https://leetcode.com/problems/toeplitz-matrix) | PENDING | Array
 | 7 |   Missing Ranges  | [Link](https://leetcode.com/problems/missing-ranges ) | PENDING | Array
 | 8 |   Split Array with Equal Sum  | [Link](https://leetcode.com/problems/split-array-with-equal-sum ) | PENDING | Array
